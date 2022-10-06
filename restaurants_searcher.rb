@@ -3,7 +3,7 @@ require 'json'
 require "csv"
 
 # 初期設定
-KEYID = "9c3db83f22323220"
+KEYID = "dummy"
 COUNT = 100
 PREF = "Z011"
 FREEWORD = "渋谷駅"
